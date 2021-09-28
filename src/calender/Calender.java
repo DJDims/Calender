@@ -92,6 +92,5 @@ public class Calender{
                 System.out.println("овцы");
                 break;
         }
-        // System.out.println("Вы родились в год " + colors[color] + " " + animals[animal]);
     }
 }
